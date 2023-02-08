@@ -1,3 +1,9 @@
+# Install
+
+```
+pip install adjustable-random-package==1.1
+```
+
 # More adjustable random functions
 
 Generating adjustable random values,
