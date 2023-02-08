@@ -5,7 +5,7 @@ with open("README.md", "r") as file:
   
 setuptools.setup(
     name="adjustable_random package",
-    version="1.0",
+    version="1.1",
     author="dinosaurtirex",
     author_email="sneakybeaky18@gmail.com",
     packages=[
